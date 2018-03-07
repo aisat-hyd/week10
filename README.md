@@ -22,9 +22,9 @@ What we would cover this week?
 
 Speakers:
 
-1. Gokul Vasan
+1. TBD
 2. Yashaswi
-3. Ramanathan
+3. TBD
 
 
 ------------------------------------
