@@ -33,5 +33,5 @@ Prep Resources:
 ** Setup GPU (https://github.com/aisat-hyd/week7/blob/master/README.md#setup_gpu)
 
 1. Part 4 Lesson - http://course.fast.ai/lessons/lesson4.html
-2. CS231n - https://stats385.github.io/assets/lectures/StanfordStats385-20170927-Lecture01-Donoho.pdf , https://stats385.github.io/assets/lectures/Lecture-02-AsCorrected.pdf
+2. CS231n - http://cs231n.github.io/convolutional-networks/
 3. Stat385 Lecture 4 - https://stats385.github.io/readings
