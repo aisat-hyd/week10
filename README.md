@@ -2,8 +2,9 @@
 
 Preparation for week 10 of AI Saturday Hyderabad(10/3/2018)
 
-http://cs231n.github.io/assignments2017/assignment1/
-http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+ - http://cs231n.github.io/assignments2017/assignment1/
+ - http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+ - https://medium.com/@alurisravani333/understanding-embeddings-and-their-relation-with-structured-data-b655c201b9da
 
 Defined Syallabus:
 
