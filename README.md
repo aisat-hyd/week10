@@ -2,6 +2,8 @@
 
 Preparation for week 10 of AI Saturday Hyderabad(10/3/2018)
 
+http://cs231n.github.io/assignments2017/assignment1/
+
 Defined Syallabus:
 
 - Session 1: Fast.ai Lesson 4
